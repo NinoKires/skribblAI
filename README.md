@@ -1,3 +1,5 @@
+![alt text](11.jpg)
+
 # SkribblAI
 HTW IMI Praxisprojekt
 
