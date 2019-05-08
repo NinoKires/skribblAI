@@ -1,4 +1,6 @@
-![](11.jpg)
+<p align="center">
+  <img width="460" height="300" src="11.jpg">
+</p>
 
 # SkribblAI
 HTW IMI Praxisprojekt
