@@ -1,4 +1,4 @@
-![alt text](11.jpg)
+![alt text](11.jpg =250x250)
 
 # SkribblAI
 HTW IMI Praxisprojekt
