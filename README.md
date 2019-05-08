@@ -1,4 +1,4 @@
-![](11.jpg | width=100)
+![](11.jpg)
 
 # SkribblAI
 HTW IMI Praxisprojekt
