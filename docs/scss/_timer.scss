@@ -1,0 +1,34 @@
+.timer__container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: $verylightgrey;
+
+    #timer {
+        transition: width .3s linear;
+        height: 0.6rem;
+        width: 100%;
+        background-color: $green;
+    }
+}
+@keyframes transition1{
+    from{
+        background-color: $green;
+    }
+    to{
+        
+        background-color: $yellow;
+    }
+}
+
+@keyframes transition2{
+ from{  
+     background-color: $yellow;
+
+ }
+
+ to{
+background-color: $red;
+ }
+}

@@ -1,0 +1,36 @@
+#word-score {
+    color: $red;
+    font-weight: bold;
+}
+
+#result img {
+    width: 25%;
+    float: left;
+
+    @media screen and (min-width: 1200px) {
+        width: 20%;
+    }
+}
+
+#result p {
+    color: #424242;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+#result h1 {
+    margin: 0%;
+    padding: 0%;
+    color: $red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#result div {
+    overflow: hidden;
+  }
+
+    

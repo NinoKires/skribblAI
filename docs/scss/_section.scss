@@ -1,0 +1,22 @@
+.section {
+    padding: 0;
+    position: relative;
+    height: 90vh;
+    padding-top: 0.5rem;
+    padding: 1rem;
+
+    @media screen and (min-width: $break-medium) {
+        height: 100vh;
+    }
+
+    &.screen__start {
+
+        .content__container-flex {
+            margin-top: 3rem;
+        }
+    }
+
+    &.screen__game {}
+
+    &.screen__end {}
+}
